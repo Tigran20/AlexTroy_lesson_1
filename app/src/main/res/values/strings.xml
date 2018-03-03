@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlexTroyLesson1</string>
+
+    <string name="name">Alex Troy</string>
+
+    <string name="main">Main</string>
+    <string name="free">Free</string>
+    <string name="paid">Paid</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.alextroy.android.alextroylesson1.MainActivityFree">
+
+    <TextView
+        style="@style/TextView"
+        android:text="@string/name"
+        android:textColor="@color/colorPrimary" />
+
+    <TextView
+        style="@style/TextView"
+        android:text="@string/free"/>
+
+</LinearLayout>
